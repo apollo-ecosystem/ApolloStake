@@ -1,4 +1,4 @@
-# AppoloStake
-Appolo Stacking Dapp
+# ApolloStake
+Apollo Stacking Dapp
 
 Coming Soon
